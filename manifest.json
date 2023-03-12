@@ -1,12 +1,12 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#333366",
   "description": "Um simples portifólio feito com Html e css para a disciplina de desenvolvimento mobile que tem o intuito de também ser um PWA.",
   "dir": "ltr",
   "display": "fullscreen",
-  "name": "lcpwaportifolio.netlify",
+  "name": "Courtney's Portifolio",
   "orientation": "portrait",
   "scope": "/",
-  "short_name": "lcpwaportifolio.netlify",
+  "short_name": "LC_Portifolio",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
