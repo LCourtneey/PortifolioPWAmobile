@@ -1,0 +1,59 @@
+{
+  "background_color": "#ffffff",
+  "description": "Um simples portifólio feito com Html e css para a disciplina de desenvolvimento mobile que tem o intuito de também ser um PWA.",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "lcpwaportifolio.netlify",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "lcpwaportifolio.netlify",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "business",
+    "photo"
+  ],
+  "screenshots": [
+    {
+      "src": "assets/img/screenshots/1280x800-screenshot.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/screenshots/750x1334-screenshot.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "assets/img/Icons/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/img/Icons/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/img/Icons/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/img/Icons/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "pt",
+  "display_override": [
+    "fullscreen"
+  ]
+}
